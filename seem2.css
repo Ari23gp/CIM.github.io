@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Plus Jakarta Sans", sans-serif; 
+align-content: center;
+}
+
+header{
+    width: 1300px;
+    height: 600px;
+    background: #0f0c29;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(240, 27%, 19%, 0.317), hsla(245, 39%, 28%, 0.413), hsla(246, 55%, 10%, 0.322)), url(img26.jpeg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, hsla(240, 27%, 19%, 0.317), hsla(245, 39%, 28%, 0.413), hsla(246, 55%, 10%, 0.322)), url(img26.jpeg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+.wave{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+
+
+ section{
+    text-align: center;
+ margin-bottom: 60px;
+ padding-top: 30px;
+ }
+
+h2{
+    margin-left: 100px;
+}
+
+.p1{
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: justify;
+}
+.im{
+   text-align: center;
+   
+   
+}
+
+h3{
+    margin-left: 0px;
+    font-size: x-large;
+ }
+
+.ob{
+   display: flex;
+   
+ }
+ .ob2{
+    display: flex;
+    
+  }
+ 
+ .i1{
+    margin-top: 40px;
+   margin-right: 20px;
+   margin-left: 100px;
+   border-radius: 10px;
+  }
+
+  .i2{
+    margin-top: 40px;
+   margin-right: 20px;
+   margin-left: 100px;
+   border-radius: 10px;
+  }
+
+  .i3{
+    margin-top: 40px;
+   margin-right: 20px;
+   margin-left: 100px;
+   border-radius: 10px;
+  }
+
+  .t1{
+    margin-top: 40px;
+   margin-right: 20px;
+   margin-left: 135px;
+  }
+
+
+  .t2{
+    margin-top: 40px;
+   margin-right: 20px;
+   margin-left: 195px;
+  }
+
+
+  .t3{
+    margin-top: 40px;
+   margin-right: 20px;
+   margin-left: 230px;
+  }
